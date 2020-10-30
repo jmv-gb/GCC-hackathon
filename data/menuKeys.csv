@@ -1,0 +1,95 @@
+Menu Item,Menu Item-stem,ID
+chango,['chango'],6
+chickencado,['chickencado'],8
+chickencurry,['chickencurri'],10
+hangover,['hangov'],30
+mozzato,['mozzato'],57
+parmella,['parmella'],65
+pescado,['pescado'],67
+spicy chicken,"['spici', 'chicken']",75
+spicy tuna,"['spici', 'tuna']",77
+spicy vegan,"['spici', 'vegan']",79
+tunacado,['tunacado'],86
+lítil samloka,"['lítil', 'samloka']",51
+chango lítil,"['chango', 'lítil']",7
+chickencado lítil,"['chickencado', 'lítil']",9
+chickencurry lítil,"['chickencurri', 'lítil']",11
+hangover lítil,"['hangov', 'lítil']",31
+mozzato lítil,"['mozzato', 'lítil']",58
+parmella lítil,"['parmella', 'lítil']",66
+pescado lítil,"['pescado', 'lítil']",68
+spicy chicken lítil,"['spici', 'chicken', 'lítil']",76
+spicy tuna lítil,"['spici', 'tuna', 'lítil']",78
+spicy vegan lítil,"['spici', 'vegan', 'lítil']",80
+tunacado lítil,"['tunacado', 'lítil']",87
+alabama,['alabama'],0
+dazed,['daze'],15
+django,['django'],17
+elvis,['elvi'],19
+good times,"['good', 'time']",24
+greenday,['greenday'],26
+hawaiian flirt,"['hawaiian', 'flirt']",32
+honey bunny,"['honey', 'bunni']",34
+icelandic flirt,"['iceland', 'flirt']",36
+indian flirt,"['indian', 'flirt']",38
+jj,['jj'],40
+kaffi curro,"['kaffi', 'curro']",43
+kaffi frappó,"['kaffi', 'frappó']",45
+lotta love,"['lotta', 'love']",48
+mr. blonde,"['mr.', 'blond']",59
+mr. pink,"['mr.', 'pink']",61
+nice guy,"['nice', 'guy']",63
+presley,['presley'],69
+spanish flirt,"['spanish', 'flirt']",73
+vanilla flirt,"['vanilla', 'flirt']",89
+winston wolf,"['winston', 'wolf']",92
+alabama lítil,"['alabama', 'lítil']",1
+dazed lítil,"['daze', 'lítil']",16
+django lítil,"['django', 'lítil']",18
+elvis lítil,"['elvi', 'lítil']",20
+good times lítil,"['good', 'time', 'lítil']",25
+greenday lítil,"['greenday', 'lítil']",27
+hawaiian flirt lítil,"['hawaiian', 'flirt', 'lítil']",33
+honey bunny lítil,"['honey', 'bunni', 'lítil']",35
+icelandic flirt lítil,"['iceland', 'flirt', 'lítil']",37
+indian flirt lítil,"['indian', 'flirt', 'lítil']",39
+jj lítil,"['jj', 'lítil']",41
+kaffi curro lítil,"['kaffi', 'curro', 'lítil']",44
+kaffi frappó lítil,"['kaffi', 'frappó', 'lítil']",46
+lotta love lítil,"['lotta', 'love', 'lítil']",49
+mr. blonde lítil,"['mr.', 'blond', 'lítil']",60
+mr. pink lítil,"['mr.', 'pink', 'lítil']",62
+nice guy lítil,"['nice', 'guy', 'lítil']",64
+presley lítil,"['presley', 'lítil']",70
+spanish flirt lítil,"['spanish', 'flirt', 'lítil']",74
+vanilla flirt lítil,"['vanilla', 'flirt', 'lítil']",90
+winston wolf lítil,"['winston', 'wolf', 'lítil']",93
+espresso,['espresso'],22
+cappucino,['cappucino'],5
+caffe latte,"['caff', 'latt']",4
+macchiato,['macchiato'],52
+mocha,['mocha'],55
+kaffi,['kaffi'],42
+túmerikskot,['túmerikskot'],88
+ruðrófuskot,['ruðrófuskot'],72
+engiferskot,['engiferskot'],21
+hafragrautur með eplum,"['hafragrautur', 'með', 'eplum']",28
+hafragrautur með granóla,"['hafragrautur', 'með', 'granóla']",29
+kjöt,['kjöt'],47
+avócadó,['avócadó'],2
+mozarella,['mozarella'],56
+próteinduft,['próteinduft'],71
+bergtoppur stórógarberja,"['bergtoppur', 'stórógarberja']",3
+coke,['coke'],12
+coke lite,"['coke', 'lite']",13
+coke zero,"['coke', 'zero']",14
+gjafabréf,['gjafabréf'],23
+lítil poki,"['lítil', 'poki']",50
+stór poki,"['stór', 'poki']",81
+toppur appelsínu,"['toppur', 'appelsínu']",82
+toppur epla,"['toppur', 'epla']",83
+toppur ferstórju,"['toppur', 'ferstórju']",84
+toppur kolsýrt vatn,"['toppur', 'kolsýrt', 'vatn']",85
+vatn 330 ml,"['vatn', '330', 'ml']",91
+meatlove,['meatlov'],53
+meatlove lítil,"['meatlov', 'lítil']",54
